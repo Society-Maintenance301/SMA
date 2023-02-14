@@ -18,7 +18,7 @@ import javax.swing.*;
      }
      int balEnd()
      {
-        int bal = aopnbal,amt=0;
+        int ball = aopnbal,amt=0;
         int i=0,n=tls.size();
         while(i<n){
             Integer obj= tls.get(i);
